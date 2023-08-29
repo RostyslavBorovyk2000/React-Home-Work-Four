@@ -1,0 +1,72 @@
+@import "../../abstracts/mixins";
+
+.itemWrapper {
+    min-width: 315px;
+    width: 30%;
+    box-sizing: border-box;
+    height: max-content;
+    border: 1px solid black;
+    border-radius: 5px;
+    @include flexcenter(center, center, column);
+    padding-top: 10px;
+    position: relative;
+
+}
+
+.svgWrapper {
+    position: absolute;
+    right: 9px;
+    top: 7px;
+    cursor: pointer;
+}
+
+.imgWrapper {
+    img {
+        width: 100%;
+        height: 250px;
+        background-size: cover;
+    }
+}
+
+.contentWrapper {
+    padding: 20px;
+
+    h3 {
+        font-size: 20px;
+        color: black;
+        margin-bottom: 10px;
+        font-weight: 700;
+        text-align: center;
+    }
+
+    p {
+        color: darkmagenta;
+        font-size: 15px;
+        margin-bottom: 10px;
+        text-align: center
+    }
+
+    div {
+        @include flexcenter;
+        justify-content: space-between;
+
+        p {
+            font-size: 17px;
+            color: black;
+            align-self: center;
+            margin: 0;
+        }
+    }
+
+}
+
+.closeSign {
+    position: absolute;
+    top: 7px;
+    left: 9px;
+    @include flexcenter;
+    gap: 5px;
+    span {
+        cursor: pointer;
+    }
+}

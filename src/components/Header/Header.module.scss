@@ -1,0 +1,48 @@
+@import '../../abstracts/mixins';
+
+.header {
+    min-width: 335px;
+    width: 100%;
+    height: 100px;
+    position: relative;
+    @include flexcenter;
+    gap: 15px;    
+
+    nav {
+        justify-items: center;
+        align-self: center;
+        ul { 
+            
+            @include flexcenter;
+            gap: 50px;
+
+            @media (max-width: 991px) {
+                gap: 20px;
+            }
+         }
+    }
+
+    .iconWrapper {
+        @include flexcenter;
+        gap: 15px; 
+        position: absolute;
+        left: 50%;
+        top: 78%;
+        transform: translate(-50%, -50%);
+
+        div {
+            @include flexcenter(center, flex-end);
+        }
+    }
+}
+
+.link {
+    text-decoration: none;
+    font-size: 25px;
+    color: grey;
+
+    &.active {
+        cursor: default;
+        opacity: .3;
+    }
+}

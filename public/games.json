@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Dixit",
+        "price": "1275.00 UAN",
+        "url": "./image/dixit.jpg",
+        "id": "87w5-w6em-2444-2f0m-4weF",
+        "color": "#FF5733",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, accusamus quod."
+    },
+    {
+        "name": "Arkham Horror",
+        "price": "2450.00 UAN",
+        "url": "./image/arkham-horror.jpg",
+        "id": "wem3-542e-erlm-2230-we4e",
+        "color": "#1ABC9C",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, accusamus quod."
+    },
+    {
+        "name": "Game Of Thrones",
+        "price": "3375.00 UAN",
+        "url": "./image/game-of-thrones.jpg",
+        "id": "0ek4-kpe9-fl0f-209i-fem2",
+        "color": "#F39C12",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, accusamus quod."
+    },
+    {
+        "name": "Exploding Kittens",
+        "price": "465.00 UAN",
+        "url": "./image/exploding-kittens.jpg",
+        "id": "okr0-e65f-8g9r-wle1-826e",
+        "color": "#3498DB",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, accusamus quod."
+    },
+    {
+        "name": "The Elder Scrolls V: Skyrim",
+        "price": "6115.00 UAN",
+        "url": "./image/skyrim.jpg",
+        "id": "ene0-684f-15e6-w65e-3f2e",
+        "color": "#E74C3C",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, accusamus quod."
+    },
+    {
+        "name": "Bang",
+        "price": "490.00 UAN",
+        "url": "./image/bang.jpg",
+        "id": "w6e4-e1fw-1we4-fw4e-f8e2",
+        "color": "#2ECC71",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, accusamus quod."
+    },
+    {
+        "name": "Munchkin",
+        "price": "1275.00 UAN",
+        "url": "./image/munchkin.jpg",
+        "id": "88b8-n8vb-xvDV-1xgj-7tye",
+        "color": "#9B59B6",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, accusamus quod."
+    },
+    {
+        "name": "Dune: House Secrets",
+        "price": "1560.00 UAN",
+        "url": "./image/dune.jpg",
+        "id": "23km-r6er-4f1e-5421-0ds0",
+        "color": "#E67E22",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, accusamus quod."
+    },
+    {
+        "name": "Pandemic",
+        "price": "1325.00 UAN",
+        "url": "./image/pandemic.jpg",
+        "id": "erm5-4e88-bnn2-2ar0-455b",
+        "color": "#27AE60",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, accusamus quod."
+    },
+    {
+        "name": "Dungeons & Dragons Dragonlance shadow of the dragon queen",
+        "price": "1275.00 UAN",
+        "url": "./image/dnd.jpg",
+        "id": "wje9-fj47-56gn-a3zx-c1vv",
+        "color": "#8E44AD",
+        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, accusamus quod."
+    }
+]

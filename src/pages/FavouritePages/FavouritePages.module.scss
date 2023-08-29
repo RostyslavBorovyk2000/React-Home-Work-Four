@@ -1,0 +1,6 @@
+@import '../../abstracts/mixins';
+.container {
+    @include flexcenter;
+    gap: 15px;
+    flex-wrap: wrap;
+}
